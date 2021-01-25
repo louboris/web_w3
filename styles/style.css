@@ -1,0 +1,43 @@
+html {
+    height: 100%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: white;
+}
+
+div.blockcentral {
+    margin: auto;
+    background-color: #fff0f5;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    width: 25em;
+    border-style: solid;
+    border-color: rgb(223, 122, 174);
+    position: relative;
+    padding-left: 2em;
+}
+
+.center {
+    text-align: center;
+}
+
+.ymk {
+    font-size: large;
+    
+}
+
+h1 {
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    margin-top: 0px;
+
+}
